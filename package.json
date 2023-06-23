@@ -1,0 +1,16 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "learningnode",
+  "main": "01-intro.js",
+  "scripts": {
+    "start": "nodemon 04-http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Misha",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
